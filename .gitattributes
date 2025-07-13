@@ -1,0 +1,6 @@
+Books/The filter=lfs diff=lfs merge=lfs -text
+Strength filter=lfs diff=lfs merge=lfs -text
+and filter=lfs diff=lfs merge=lfs -text
+Conditioning filter=lfs diff=lfs merge=lfs -text
+Bible.epub filter=lfs diff=lfs merge=lfs -text
+Books/The[[:space:]]Strength[[:space:]]and[[:space:]]Conditioning[[:space:]]Bible.epub filter=lfs diff=lfs merge=lfs -text
